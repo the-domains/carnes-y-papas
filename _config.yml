@@ -1,0 +1,28 @@
+name: Carnes y Papas
+favicon: null
+layout_spectrum: 0.06977071356959641
+typography_spectrum: 0.838976621394977
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5913354668300599
+  lightness: 0.4946778202429414
+  saturation: 0.35535080335102975
+  rhythmicContrast: 0.38781630829907954
+purpose: []
